@@ -22,20 +22,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 
 <!-- Navbar -->
 <div class="w3-top">
-  <div class="w3-bar w3-theme w3-left-align w3-large">
+  <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
     <a href="index.html#intro" class="w3-bar-item w3-button w3-theme-l1">Home</a>
     <a href="index.html#topics" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Topics</a>
     <a href="index.html#sched" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Schedule</a>
     <a href="index.html#cfp" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Submissions</a>
     <a href="Organizers.html" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Organizers</a>
-    <div class="w3-dropdown-hover">
-      <button class="w3-button">More <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="w3-dropdown-content w3-bar-block w3-card-4">
-          <a href="Prev_yr_2020.html" class="w3-bar-item w3-button">HRI 2020</a>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -66,17 +59,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
     	  <h3 class="w3-text-teal"> >> <a href="https://forms.gle/kMSa5jbtSCWvXruZ8">Register now</a> for the virtual workshop! </h3>
 
 	  <p><table> <tr><th><b>Abbreviated schedule (all times EDT, GMT-4)</b></th></tr>
-	  <tr><td> 10:00 - Opening Remarks - Jeremy Marvel (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/Marvel - Presentation.pdf">Presentation</a>) </td></tr>
-	  <tr><td> 10:10 - Contributing Author - Miruna-Adriana Clinciu (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/Clinciu - Abstract.pdf">abstract</a>)</td></tr>
-	  <tr><td> 10:30 - Contributing Author - Frank Förster (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/Förster - Abstract.pdf">abstract</a>)</td></tr>
-	  <tr><td> 10:50 - Contributing Author - Kourosh Darvish (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/Darvish - Abstract.pdf">abstract</a>)</td></tr>
-	  <tr><td> 11:10 - Contributing Author - Rob Semmens (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/Semmens - Abstract.pdf">abstract</a>)</td></tr>
+	  <tr><td> 10:00 - Opening Remarks - Jeremy Marvel (<a href="https://hri-methods-metrics.github.io/Marvel - Presentation.pdf">Presentation</a>) </td></tr>
+	  <tr><td> 10:10 - Contributing Author - Miruna-Adriana Clinciu (<a href="https://hri-methods-metrics.github.io/Clinciu - Abstract.pdf">abstract</a>)</td></tr>
+	  <tr><td> 10:30 - Contributing Author - Frank Förster (<a href="https://hri-methods-metrics.github.io/Förster - Abstract.pdf">abstract</a>)</td></tr>
+	  <tr><td> 10:50 - Contributing Author - Kourosh Darvish (<a href="https://hri-methods-metrics.github.io/Darvish - Abstract.pdf">abstract</a>)</td></tr>
+	  <tr><td> 11:10 - Contributing Author - Rob Semmens (<a href="https://hri-methods-metrics.github.io/Semmens - Abstract.pdf">abstract</a>)</td></tr>
 	  <tr><td> 11:30 - Invitational Speaker - Sophie Wang, Clemson University</td></tr>
 	  <tr><td> 12:00 - Break</td></tr>
-	  <tr><td> 12:10 - Contributing Author - Andrey Rudenko (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/Rudenko - Abstract.pdf">abstract</a>, <a href="https://hri-methods-metrics.github.io/Prev_years/2020/Rudenko - Presentation.pdf">presentation</a>, <a href="http://thor.oru.se/">THOR data set</a>)</td></tr>
-	  <tr><td> 12:30 - Contributing Author - Yigit Topoglu (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/Topoglu - Abstract.pdf">abstract</a>)</td></tr>
-	  <tr><td> 12:50 - Contributing Author - David St-Onge (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/St-Onge - Abstract.pdf">abstract</a>)</td></tr>
-	  <tr><td> 13:10 - Contributing Author - Chittaranjan Swaminathan (<a href="https://hri-methods-metrics.github.io/Prev_years/2020/Swaminathan - Abstract.pdf">abstract</a>, <a href="https://hri-methods-metrics.github.io/Prev_years/2020/Swaminathan - Presentation.pdf">presentation</a>, <a href="https://hri-methods-metrics.github.io/Prev_years/2020/Swaminathan - FinalCoordination.mkv">video</a>)</td></tr>
+	  <tr><td> 12:10 - Contributing Author - Andrey Rudenko (<a href="https://hri-methods-metrics.github.io/Rudenko - Abstract.pdf">abstract</a>, <a href="https://hri-methods-metrics.github.io/Rudenko - Presentation.pdf">presentation</a>, <a href="http://thor.oru.se/">THOR data set</a>)</td></tr>
+	  <tr><td> 12:30 - Contributing Author - Yigit Topoglu (<a href="https://hri-methods-metrics.github.io/Topoglu - Abstract.pdf">abstract</a>)</td></tr>
+	  <tr><td> 12:50 - Contributing Author - David St-Onge (<a href="https://hri-methods-metrics.github.io/St-Onge - Abstract.pdf">abstract</a>)</td></tr>
+	  <tr><td> 13:10 - Contributing Author - Chittaranjan Swaminathan (<a href="https://hri-methods-metrics.github.io/Swaminathan - Abstract.pdf">abstract</a>, <a href="https://hri-methods-metrics.github.io/Swaminathan - Presentation.pdf">presentation</a>, <a href="https://hri-methods-metrics.github.io/Swaminathan - FinalCoordination.mkv">video</a>)</td></tr>
 	  <tr><td> 13:30 - Closing Remarks</td></tr>
 	  <tr><td> 13:40 - Overflow discussion (additional presentations, etc.)</td></tr>
 
